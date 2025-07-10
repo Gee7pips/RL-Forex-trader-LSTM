@@ -2,7 +2,7 @@ absl-py>=0.4.0
 aiodns==1.1.1
 aiohttp==2.3.7
 alabaster==0.7.9
-anaconda-client==1.6.0
+anaconda-client==1.13.0
 anaconda-project==0.4.1
 asciichart==0.1
 astor==0.7.1
